@@ -1,0 +1,1 @@
+"Workload,Description,CPU_Request,Memory_Request,CPU_Limit,Memory_Limit""AI_Inference,DistilBERT_128_tokens,500m,1Gi,1,2Gi""Planning,LangChain_512_token_prompts,1,2Gi,2,4Gi""Tool_Execution,Containerized_API_Data_Processing,250m,512Mi,500m,1Gi""Agentic_Workflow,3_to_5_stages,As_configured,As_configured,As_configured,As_configured"

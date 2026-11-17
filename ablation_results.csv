@@ -1,0 +1,1 @@
+"Method,Task_Completion_pct,P95_Latency_sec,SLA_Violation_pct,Failure_Rate_pct""Prediction_Only,94.3,3.58,7.9,4.6""Trust_Only,93.1,3.84,8.8,5.2""Full_TRACER,97.6,2.96,4.2,2.1"
